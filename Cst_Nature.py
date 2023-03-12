@@ -2,6 +2,7 @@
 import pandas as pd
 import streamlit as st
 import joblib
+
 st.title('Predict Customer Loyality')
 
 st.subheader('Is your customwer loyal to you?')
