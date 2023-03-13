@@ -5,7 +5,7 @@ import joblib
 
 st.title('Predict Customer Loyality')
 
-st.subheader('Is your customwer loyal to you?')
+st.subheader('Is your customer loyal to you?')
 
 #User Input
 Customer_Age = st.number_input('Enter age')
